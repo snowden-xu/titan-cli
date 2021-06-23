@@ -1,5 +1,5 @@
 {
-  "name": "@titan/cli",
+  "name": "@titancli/cli",
   "version": "1.0.0",
   "description": "Titan CLI 是一个创建React/Vue应用的标准脚手架工具",
   "bin": {
