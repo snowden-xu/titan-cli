@@ -1,6 +1,6 @@
 {
   "name": "@titancli/cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Titan CLI 是一个创建React/Vue应用的标准脚手架工具",
   "bin": {
     "titan": "bin/index.js"
